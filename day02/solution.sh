@@ -75,7 +75,7 @@ solution_part2() {
 if [ "$part" = "part2" ]; then
 	solution_part2
 else
-	solution_part2
+	solution_part1
 fi
 
 printf "%s\n" "$sum"
